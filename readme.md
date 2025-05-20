@@ -2,8 +2,11 @@
 
 # Hi, I'm Seokhun Ji  
 Integrated B.S.–M.S. in Software, Soongsil University, Republic of Korea
+
 </div>
+
 (Expected M.S. Graduation: Feb 2026)
+
 </div>
 
 ---
