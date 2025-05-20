@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi, I'm Seokhun Ji  
-Bachelor of Science, Major in SW, SSU, South Korea
-
+Integrated B.S.–M.S. in Software, Soongsil University, Republic of Korea
+(Expected M.S. Graduation: Feb 2026)
 </div>
 
 ---
@@ -16,5 +16,5 @@ Bachelor of Science, Major in SW, SSU, South Korea
 
 ### 📫 Contact
 
-- **Email(global):** xeokun37@gmail.com
+- **Email(Global):** xeokun37@gmail.com
 - **Email(KR):** gaenyeom37@naver.com
