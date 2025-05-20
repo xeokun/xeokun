@@ -10,8 +10,8 @@ Integrated B.S.–M.S. in Software, Soongsil University, Republic of Korea
 ---
 
 ### 🔍 About Me
-- AI Researcher & Engineer
-- Passionate about **Representation Learning including Generative Models**, **Multi-modal Learning**, and **XAI**
+- **AI Researcher & Engineer**
+- Passionate about Representation Learning (including generative models), Multimodal learning, Robustness of AI
 - Always open to collaboration and contribution
 
 ---
